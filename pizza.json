@@ -238,61 +238,7 @@
         ]
       },
        
-      {
-        "id": 14,
-        "name": "Schezwan Margherita",
-        "price": "22.95",
-        "menu_description": "Your very own Margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese.",
-        "classifications": {
-          "vegetarian": true
-        },
-        "assets": {
-          "menu": [
-            {
-              "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
-            }
-          ],
-          "product_details_page": [
-            {
-              "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/schezwan-margherita.4371d9483546db47a97c5503ccad0c2f.1.jpg"
-            }
-          ]
-        },
-        "toppings": [
-          {
-            "id": 6,
-            "name": "Basil",
-            "description": null,
-            "asset": {
-              "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
-            }
-          },
-          {
-            "id": 5,
-            "name": "Mozzarella",
-            "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
-            "asset": {
-              "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
-            }
-          },
-          {
-            "id": 2,
-            "name": "Oregano",
-            "description": null,
-            "asset": {
-              "url": "https://assets.zumepizza.com/public/1dlixxge.png"
-            }
-          },
-          {
-            "id": 1,
-            "name": "Tomato Sauce",
-            "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
-            "asset": {
-              "url": "https://assets.zumepizza.com/public/3i572qur.png"
-            }
-          }
-        ]
-      },
+    
       {
         "id": 15,
         "name": "Mazedar Makhni Paneer",
